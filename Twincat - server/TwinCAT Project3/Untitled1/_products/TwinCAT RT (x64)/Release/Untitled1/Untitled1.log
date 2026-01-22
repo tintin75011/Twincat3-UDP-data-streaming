@@ -1,0 +1,7 @@
+﻿  Extracting version information from 'C:\Users\user\source\repos\TwinCAT Project3 - Copie\TwinCAT Project3\Untitled1\Untitled1.rc' importing additional information from 'C:\Users\user\source\repos\TwinCAT Project3 - Copie\TwinCAT Project3\Untitled1\Untitled1.tmc and 'C:\Program Files (x86)\Beckhoff\TwinCAT\3.1\SDK\\TwinCATVersion.xml'
+  TcPch.cpp
+  Module1.cpp
+  Untitled1ClassFactory.cpp
+  Untitled1Driver.cpp
+  Untitled1.vcxproj -> C:\Users\user\source\repos\TwinCAT Project3 - Copie\TwinCAT Project3\Untitled1\_products\TwinCAT RT (x64)\Release\Untitled1.tmx
+  Signing output with TwinCAT certificate 'MyLS2NCertificate'
