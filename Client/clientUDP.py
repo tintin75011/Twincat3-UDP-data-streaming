@@ -1,9 +1,8 @@
-# client_udp.py
 import socket
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
-# (optionnel mais recommandé) timeout pour éviter de bloquer indéfiniment
+# Timeout pour éviter de bloquer indéfiniment
 sock.settimeout(5)
 
 # Envoi du message
